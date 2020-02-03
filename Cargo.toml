@@ -29,3 +29,6 @@ http = "0.2"
 [dev-dependencies]
 env_logger = "0.7"
 tokio = { version = "0.2", features = ["macros"] }
+
+[dependencies]
+tarkov = "0.1"
